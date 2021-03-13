@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-hashgraph/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-hashgraph/static/js/main.f00a597d.chunk.js",
-    "main.js.map": "/react-hashgraph/static/js/main.f00a597d.chunk.js.map",
+    "main.js": "/react-hashgraph/static/js/main.7784daab.chunk.js",
+    "main.js.map": "/react-hashgraph/static/js/main.7784daab.chunk.js.map",
     "runtime-main.js": "/react-hashgraph/static/js/runtime-main.253c6d41.js",
     "runtime-main.js.map": "/react-hashgraph/static/js/runtime-main.253c6d41.js.map",
     "static/js/2.efa4ee3e.chunk.js": "/react-hashgraph/static/js/2.efa4ee3e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.253c6d41.js",
     "static/js/2.efa4ee3e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f00a597d.chunk.js"
+    "static/js/main.7784daab.chunk.js"
   ]
 }
