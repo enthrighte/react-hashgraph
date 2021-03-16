@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-hashgraph/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-hashgraph/static/js/main.7784daab.chunk.js",
-    "main.js.map": "/react-hashgraph/static/js/main.7784daab.chunk.js.map",
-    "runtime-main.js": "/react-hashgraph/static/js/runtime-main.253c6d41.js",
-    "runtime-main.js.map": "/react-hashgraph/static/js/runtime-main.253c6d41.js.map",
-    "static/js/2.efa4ee3e.chunk.js": "/react-hashgraph/static/js/2.efa4ee3e.chunk.js",
-    "static/js/2.efa4ee3e.chunk.js.map": "/react-hashgraph/static/js/2.efa4ee3e.chunk.js.map",
-    "static/js/3.29053598.chunk.js": "/react-hashgraph/static/js/3.29053598.chunk.js",
-    "static/js/3.29053598.chunk.js.map": "/react-hashgraph/static/js/3.29053598.chunk.js.map",
+    "main.css": "/react-hashgraph/static/css/main.4db1e0dc.chunk.css",
+    "main.js": "/react-hashgraph/static/js/main.1f85f153.chunk.js",
+    "main.js.map": "/react-hashgraph/static/js/main.1f85f153.chunk.js.map",
+    "runtime-main.js": "/react-hashgraph/static/js/runtime-main.04df0957.js",
+    "runtime-main.js.map": "/react-hashgraph/static/js/runtime-main.04df0957.js.map",
+    "static/js/2.8fad6c2c.chunk.js": "/react-hashgraph/static/js/2.8fad6c2c.chunk.js",
+    "static/js/2.8fad6c2c.chunk.js.map": "/react-hashgraph/static/js/2.8fad6c2c.chunk.js.map",
+    "static/js/3.4fb0cb34.chunk.js": "/react-hashgraph/static/js/3.4fb0cb34.chunk.js",
+    "static/js/3.4fb0cb34.chunk.js.map": "/react-hashgraph/static/js/3.4fb0cb34.chunk.js.map",
     "index.html": "/react-hashgraph/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-hashgraph/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.efa4ee3e.chunk.js.LICENSE.txt": "/react-hashgraph/static/js/2.efa4ee3e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-hashgraph/static/media/logo.6ce24c58.svg"
+    "static/css/main.4db1e0dc.chunk.css.map": "/react-hashgraph/static/css/main.4db1e0dc.chunk.css.map",
+    "static/js/2.8fad6c2c.chunk.js.LICENSE.txt": "/react-hashgraph/static/js/2.8fad6c2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.253c6d41.js",
-    "static/js/2.efa4ee3e.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.7784daab.chunk.js"
+    "static/js/runtime-main.04df0957.js",
+    "static/js/2.8fad6c2c.chunk.js",
+    "static/css/main.4db1e0dc.chunk.css",
+    "static/js/main.1f85f153.chunk.js"
   ]
 }
