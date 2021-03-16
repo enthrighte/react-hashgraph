@@ -1,3 +1,30 @@
+# React Hashgraph test
+
+### Notes
+1. A .env file needs to be created in /src and configured with Hedera network credentials for Hashgraph functions to work:
+
+```
+MY_ACCOUNT_ID= 0.0.x
+MY_PRIVATE_KEY= 302ex
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Other stuff from create react app:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
